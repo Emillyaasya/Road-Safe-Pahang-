@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing 2017 road accident data across Pahan
 
 An interactive 4-page Power BI dashboard analyzing 2017 road accident data across Pahang, Malaysia. It covers crash hotspots, driver behavior, AI severity predictions, and district-level road safety actions.
 
-🔗 **[View Live Interactive Dashboard](https://powerbi.com)**
+🔗 **[View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWUzZTAzN2EtZmNjZS00ZGZhLTgxNjYtMGNmYWZiNjFjNzZkIiwidCI6IjEwOTU3NTE4LWU1NGMtNGFmYy1hMTYxLTc2NTRmNTc0Nzg5MSIsImMiOjEwfQ%3D%3D)**
 
 ## 📊 Key Highlights
 * **Page 1 – Executive Overview:** Analyzed **1,673 accidents** (3,000 vehicles) with a **51.3% fatality rate**. **Rompin** is the highest-risk district, and crashes peak at **2:00 PM**.
